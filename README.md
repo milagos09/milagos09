@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ike</h1>
+<h1 align="center">Hi! I'm Ike</h1>
 <h3 align="center">A passionate about using JavaScript to automate things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milagos09&label=Profile%20views&color=0e75b6&style=flat" alt="milagos09" /> </p>
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://milagos09-portfolio.vercel.app](https://milagos09-portfolio.vercel.app)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me in <a href= "https://www.linkedin.com/in/manuel-ike-lagos/">Linkedin</a></h3>
 <p align="left">
 </p>
 
